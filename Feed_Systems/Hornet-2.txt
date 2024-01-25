@@ -1,0 +1,31 @@
+Methalox 
+
+Thrust and mass flow rates
+------------------------------------------
+   Chamber thrust (vac):    2.75598     kN
+ Specific impulse (vac):  304.75813      s
+   Chamber thrust (opt):    2.49451     kN
+ Specific impulse (opt):  275.84489      s
+   Total mass flow rate:    0.92215   kg/s
+Oxidizer mass flow rate:    0.67292   kg/s
+    Fuel mass flow rate:    0.24923   kg/s
+
+Geometry of thrust chamber with parabolic nozzle
+------------------------------------------
+    Dc =   73.19  mm       b =   30.00 deg
+    R2 =   84.71  mm      R1 =   17.36  mm
+    L* =  900.00  mm
+    Lc =  120.00  mm    Lcyl =   49.31  mm
+    Dt =   23.15  mm
+    Rn =    4.42  mm      Tn =   21.28 deg
+    Le =   50.58  mm      Te =    8.00 deg
+    De =   56.72  mm
+ Ae/At =    6.00    
+ Le/Dt =    2.19    
+Le/c15  =   80.00 % (relative to length of cone nozzle with Te=15 deg)
+
+  Mass =   -6.76  kg
+
+  Divergence efficiency:    0.98550       
+        Drag efficiency:    0.96223       
+     Thrust coefficient:    1.64096  (vac)
